@@ -1,9 +1,6 @@
 """
 Author: Cory Jodon
 Description: Completed budget app for free code camp.org exercise. 
-Notes: My completed project does not pass, even though I believe it is the more practical
-    and professional way to perform the task. see the commented code below the script for 
-    a version that is accepted.
 """
 class Category:
     def __init__(self,name):
